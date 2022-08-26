@@ -3,6 +3,9 @@ An easy-to-use YouTube video downloader.
 
 This simple python script uses the Pytube module to download YouTube videos directly via a CLI.
 
+Please let me know if there are any errors.
+I am open to suggestions as well.
+
 | Preview |
 
 </// late18coder's YouTube Video Downloader ///>    
